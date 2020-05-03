@@ -15,3 +15,4 @@
 删除分支：git branch –d name
 -------------------------------------------
 888-conflict
+some data add at conflict_a
